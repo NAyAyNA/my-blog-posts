@@ -17,19 +17,19 @@ Prerequisites:
 
    git clone https://github.com/yourusername/your-repo-name.git
 
-2. Navigate into the project directory:
+3. Navigate into the project directory:
 
-  cd your-repo-name
+   cd your-repo-name
 
-3. Install the dependencies:
-  
-  npm install
+4. Install the dependencies:
+
+   npm install
 
 ## Running the Development Server
 
-To run the application in development mode:
-  
-  npm run dev
+1. To run the application in development mode:
+
+   npm run dev
 
 The app should be available at http://localhost:3000.
 
