@@ -15,11 +15,11 @@ Prerequisites:
 
 1. Clone the repository:
 
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/NAyAyNA/my-blog-posts.git
 
 3. Navigate into the project directory:
 
-   cd your-repo-name
+   cd my-blog-posts
 
 4. Install the dependencies:
 
